@@ -98,10 +98,9 @@ class Main extends React.Component {
             <div class="col-1-of-4">
               <div class="feature-box">
                 <i class="feature-box__icon icon-basic-world"></i>
-                <h3 class="heading-tertiary u-margin-bottom-small">Design</h3>
+                <h3 class="heading-tertiary u-margin-bottom-small">Diseño</h3>
                 <p class="feature-box__text">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Aperiam, ipsum sapiente aspernatur.
+                  Los modulos de giskard son personalizables y nuestro equipo te ayudara a elegir el mas adecuado.
                 </p>
               </div>
             </div>
@@ -110,11 +109,10 @@ class Main extends React.Component {
               <div class="feature-box">
                 <i class="feature-box__icon icon-basic-compass"></i>
                 <h3 class="heading-tertiary u-margin-bottom-small">
-                  Simulation
+                  Simulacion
                 </h3>
                 <p class="feature-box__text">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Aperiam, ipsum sapiente aspernatur.
+                  Es importante prepararnos para cualquier eventualidad, por lo que simulamos los escenarios y poder prepararnos.
                 </p>
               </div>
             </div>
@@ -126,8 +124,7 @@ class Main extends React.Component {
                   Manufacture
                 </h3>
                 <p class="feature-box__text">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Aperiam, ipsum sapiente aspernatur.
+                  Gracias a la naturaleza modular y reutilizable, la fabricacion puede realizarse en periodos muy cortos.
                 </p>
               </div>
             </div>
@@ -135,10 +132,9 @@ class Main extends React.Component {
             <div class="col-1-of-4">
               <div class="feature-box">
                 <i class="feature-box__icon icon-basic-map"></i>
-                <h3 class="heading-tertiary u-margin-bottom-small">Test & certifications</h3>
+                <h3 class="heading-tertiary u-margin-bottom-small">Test & Certificacion</h3>
                 <p class="feature-box__text">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Aperiam, ipsum sapiente aspernatur.
+                  Te acompañamos en el proceso de certificacion y pruebas para que no tengas que preocuparte por eso.
                 </p>
               </div>
             </div>
@@ -205,12 +201,7 @@ class Main extends React.Component {
               </div>
             </div>
           </div>
-
-          <div class="u-center-text u-margin-top-huge">
-            <a href="#" class="btn-text">
-              Read all stories &rarr;
-            </a>
-          </div>
+ 
         </section>
       </div>
     );
