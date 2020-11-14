@@ -25,7 +25,7 @@ class Main extends React.Component {
                 Menos Costos
               </h3>
               <p class="paragraph">
-                Gran parte del costo de construccion de un satelite corresponde a los largos tiempos de desarrollo y el constante sorpote de un equipo de especialistas.
+                Gran parte del costo de construccion de un satelite corresponde a los largos tiempos de desarrollo y el constante sorpote de un equipo de especialistas, lo que involucra grandes costos y suele desalentar estas iniciativas.
               </p>
               <h3 class="heading-tertiary u-margin-bottom-small">
                 Mejores tiempos
@@ -39,8 +39,10 @@ class Main extends React.Component {
               <p class="paragraph">
                 Mucha de la tecnologia satelital suele requerir una serie de funciones basicas, como comunicacion UHF, Computadora de vuelo, Gestion de Bateria, Camaras, Sensores, etc, 
               </p>
-    
-               
+              <br/>
+              <h3 class="heading-tertiary u-margin-bottom-small">
+                Ya estas listo para llegar al infinito y mas alla.
+              </h3>
             </div>
             <div class="col-1-of-3">Aqui tomo 1 espacio</div>
           </div>
@@ -77,17 +79,13 @@ class Main extends React.Component {
             </div>
             <div class="col-1-of-2">
               <h3 class="heading-tertiary u-margin-bottom-small">
-                You're going to fall in love with nature
+                Te acompañamos durante todo el proceso
               </h3>
               <p class="paragraph">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Aperiam, ipsum sapiente aspernatur libero repellat quis
-                consequatur ducimus quam nisi exercitationem omnis earum qui.
+                Al adquirir un modulo Giskard estaras asesorado por un panel de expertos, que te permitiran ajustar el diseño a tus necesidades, asesorarte en el proceso de ensamblaje y certificacion, nuestro objetivo es que puedas enfocarte solo en lo mas importante, los resultados.
               </p>
 
-              <a href="#" class="btn-text">
-                Learn more &rarr;
-              </a>
+ 
             </div>
           </div>
         </section>
