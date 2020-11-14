@@ -18,7 +18,7 @@ class Header extends React.Component {
 						<h1 class="heading-primary">
                             <span class="heading-primary--upper">Proyecto</span>
 							<span class="heading-primary--main">GISKARD</span>
-							<span class="heading-primary--sub">"Gracias a la disponibilidad de modulos independientes listos para ser certificados, construir un satelite sera como decidir de que sabor quieres tu pizza"</span>
+							<span class="heading-primary--sub">"DEMOCRATIZANDO EL ACCESO A LA TECNOLOGÍA SATELITAL"</span>
 						</h1>
 
 						<a href="mailto:hello@giskard.space" class="btn btn--white btn--animated"  >

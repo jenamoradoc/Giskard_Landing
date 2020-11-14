@@ -14,32 +14,33 @@ class Main extends React.Component {
       <div>
         <section class="section-about">
           <div class="u-center-text u-margin-bottom-big">
-            <h2 class="heading-secondary">Democratizando el acceso a la tecnología satelital</h2>
+            <h2 class="heading-secondary">One Core to rule them all</h2>
             <p class="paragraph">
-			"Gracias a la disponibilidad de modulos independientes listos para ser certificados, construir un satelite sera como decidir de que sabor quieres tu pizza"            </p>
+			        Gracias a la disponibilidad de modulos independientes prediseñados, <br/>
+              construir un satelite sera como decidir de que sabor quieres tu pizza" </p>
           </div>
           <div class="row">
             <div class="col-2-of-3">
               <h3 class="heading-tertiary u-margin-bottom-small">
-                You're going to fall in love with nature
+                Menos Costos
               </h3>
               <p class="paragraph">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Aperiam, ipsum sapiente aspernatur libero repellat quis
-                consequatur ducimus quam nisi exercitationem omnis earum qui.
+                Gran parte del costo de construccion de un satelite corresponde a los largos tiempos de desarrollo y el constante sorpote de un equipo de especialistas.
               </p>
-
               <h3 class="heading-tertiary u-margin-bottom-small">
-                Live adventures like you never have before
+                Mejores tiempos
               </h3>
               <p class="paragraph">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Asperiores nulla deserunt voluptatum nam.
+                Una vez construido un satelite es necesario superar una etapa ardua y larga de pruebas y certificaciones antes de ser puesto en orbita, si, mas dinero.
               </p>
-
-              <a href="#" class="btn-text">
-                Learn more &rarr;
-              </a>
+              <h3 class="heading-tertiary u-margin-bottom-small">
+                Mas Rapido
+              </h3>
+              <p class="paragraph">
+                Mucha de la tecnologia satelital suele requerir una serie de funciones basicas, como comunicacion UHF, Computadora de vuelo, Gestion de Bateria, Camaras, Sensores, etc, 
+              </p>
+    
+               
             </div>
             <div class="col-1-of-3">Aqui tomo 1 espacio</div>
           </div>
