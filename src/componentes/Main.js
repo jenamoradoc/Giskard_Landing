@@ -2,8 +2,8 @@ import React from "react";
 
 import profile1 from "../img/Profile_1.png";
 import profile2 from "../img/Profile_2.png";
-import videoBackground from "../img/story_video.mp4";
-import videoWebm from "../img/launch_rocket.webm";
+import videoBackground from "../img/backgroundvideo2.mp4";
+import videoWebm from "../img/backgroundvideo2.webm";
 import photoframe1 from '../img/temporal_1.jpg'
 import photoframe2 from '../img/temporal_2.jpg'
 import photoframe3 from '../img/temporal_3.jpg'
