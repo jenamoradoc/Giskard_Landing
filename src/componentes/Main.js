@@ -36,7 +36,7 @@ class Main extends React.Component {
                 Giskard orfrece un acompañamiento completo durante el proceso de diseño, simulacion de escenarios, manufcatura y certificacion de tus satelite basado en los modulos prediseñados.
               </p>
               <h3 class="heading-tertiary u-margin-bottom-small">
-                Mas Rapido
+                Mas Facil
               </h3>
               <p class="paragraph">
                 Mucha de la tecnologia satelital suele requerir una serie de funciones basicas, como comunicacion UHF, Computadora de vuelo, Gestion de Bateria, Camaras, Sensores, etc, 
