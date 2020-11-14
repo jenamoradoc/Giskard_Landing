@@ -14,34 +14,40 @@ class Main extends React.Component {
       <div>
         <section class="section-about">
           <div class="u-center-text u-margin-bottom-big">
-            <h2 class="heading-secondary">Democratizando el acceso a la tecnología satelital</h2>
+            <h2 class="heading-secondary">One Core to rule them all</h2>
             <p class="paragraph">
-			"Gracias a la disponibilidad de modulos independientes listos para ser certificados, construir un satelite sera como decidir de que sabor quieres tu pizza"            </p>
+			        Gracias a la disponibilidad de modulos independientes prediseñados, <br/>
+              construir un satelite sera como decidir de que sabor quieres tu pizza" </p>
           </div>
           <div class="row">
             <div class="col-2-of-3">
               <h3 class="heading-tertiary u-margin-bottom-small">
-                You're going to fall in love with nature
+                Menos Costos
               </h3>
               <p class="paragraph">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Aperiam, ipsum sapiente aspernatur libero repellat quis
-                consequatur ducimus quam nisi exercitationem omnis earum qui.
+                Gran parte del costo de construccion de un satelite corresponde a los largos tiempos de desarrollo y el constante sorpote de un equipo de especialistas, lo que involucra grandes costos y suele desalentar estas iniciativas.
+                Gracias a los modulos preconstruidos de giskard podras despreocuparte por el proceso y el arduo proceso de investigacion.
               </p>
-
               <h3 class="heading-tertiary u-margin-bottom-small">
-                Live adventures like you never have before
+                Mejores tiempos
               </h3>
               <p class="paragraph">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Asperiores nulla deserunt voluptatum nam.
+                Una vez construido un satelite es necesario superar una etapa ardua y larga de pruebas y certificaciones antes de ser puesto en orbita, si, mas dinero.
+                Giskard orfrece un acompañamiento completo durante el proceso de diseño, simulacion de escenarios, manufcatura y certificacion de tus satelite basado en los modulos prediseñados.
               </p>
-
-              <a href="#" class="btn-text">
-                Learn more &rarr;
-              </a>
+              <h3 class="heading-tertiary u-margin-bottom-small">
+                Mas Facil
+              </h3>
+              <p class="paragraph">
+                Mucha de la tecnologia satelital suele requerir una serie de funciones basicas, como comunicacion UHF, Computadora de vuelo, Gestion de Bateria, Camaras, Sensores, etc, 
+                Por ello estamos trabajando en brindarte cada vez mejores modulos que se adapten a tus proyectos espaciales.
+              </p>
+              <br/>
+              <h3 class="heading-tertiary u-margin-bottom-small">
+                Ya estas listo para llegar al infinito y mas alla.
+              </h3>
             </div>
-            <div class="col-1-of-3">Aqui tomo 1 espacio</div>
+            <div class="col-1-of-3"> </div>
           </div>
         </section>
         <section class="section-about">
@@ -76,17 +82,13 @@ class Main extends React.Component {
             </div>
             <div class="col-1-of-2">
               <h3 class="heading-tertiary u-margin-bottom-small">
-                You're going to fall in love with nature
+                Te acompañamos durante todo el proceso
               </h3>
               <p class="paragraph">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Aperiam, ipsum sapiente aspernatur libero repellat quis
-                consequatur ducimus quam nisi exercitationem omnis earum qui.
+                Al adquirir un modulo Giskard estaras asesorado por un panel de expertos, que te permitiran ajustar el diseño a tus necesidades, asesorarte en el proceso de ensamblaje y certificacion, nuestro objetivo es que puedas enfocarte solo en lo mas importante, los resultados.
               </p>
 
-              <a href="#" class="btn-text">
-                Learn more &rarr;
-              </a>
+ 
             </div>
           </div>
         </section>
@@ -96,10 +98,9 @@ class Main extends React.Component {
             <div class="col-1-of-4">
               <div class="feature-box">
                 <i class="feature-box__icon icon-basic-world"></i>
-                <h3 class="heading-tertiary u-margin-bottom-small">Design</h3>
+                <h3 class="heading-tertiary u-margin-bottom-small">Diseño</h3>
                 <p class="feature-box__text">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Aperiam, ipsum sapiente aspernatur.
+                  Los modulos de giskard son personalizables y nuestro equipo te ayudara a elegir el mas adecuado.
                 </p>
               </div>
             </div>
@@ -108,11 +109,10 @@ class Main extends React.Component {
               <div class="feature-box">
                 <i class="feature-box__icon icon-basic-compass"></i>
                 <h3 class="heading-tertiary u-margin-bottom-small">
-                  Simulation
+                  Simulacion
                 </h3>
                 <p class="feature-box__text">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Aperiam, ipsum sapiente aspernatur.
+                  Es importante prepararnos para cualquier eventualidad, por lo que simulamos los escenarios y poder prepararnos.
                 </p>
               </div>
             </div>
@@ -124,8 +124,7 @@ class Main extends React.Component {
                   Manufacture
                 </h3>
                 <p class="feature-box__text">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Aperiam, ipsum sapiente aspernatur.
+                  Gracias a la naturaleza modular y reutilizable, la fabricacion puede realizarse en periodos muy cortos.
                 </p>
               </div>
             </div>
@@ -133,10 +132,9 @@ class Main extends React.Component {
             <div class="col-1-of-4">
               <div class="feature-box">
                 <i class="feature-box__icon icon-basic-map"></i>
-                <h3 class="heading-tertiary u-margin-bottom-small">Test & certifications</h3>
+                <h3 class="heading-tertiary u-margin-bottom-small">Test & Certificacion</h3>
                 <p class="feature-box__text">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Aperiam, ipsum sapiente aspernatur.
+                  Te acompañamos en el proceso de certificacion y pruebas para que no tengas que preocuparte por eso.
                 </p>
               </div>
             </div>
@@ -203,12 +201,7 @@ class Main extends React.Component {
               </div>
             </div>
           </div>
-
-          <div class="u-center-text u-margin-top-huge">
-            <a href="#" class="btn-text">
-              Read all stories &rarr;
-            </a>
-          </div>
+ 
         </section>
       </div>
     );
