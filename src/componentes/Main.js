@@ -14,11 +14,9 @@ class Main extends React.Component {
       <div>
         <section class="section-about">
           <div class="u-center-text u-margin-bottom-big">
-            <h2 class="heading-secondary">One Core to rule them all</h2>
+            <h2 class="heading-secondary">Democratizando el acceso a la tecnología satelital</h2>
             <p class="paragraph">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam,
-              ipsum sapiente aspernatur
-            </p>
+			"Gracias a la disponibilidad de modulos independientes listos para ser certificados, construir un satelite sera como decidir de que sabor quieres tu pizza"            </p>
           </div>
           <div class="row">
             <div class="col-2-of-3">
