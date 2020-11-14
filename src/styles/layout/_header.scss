@@ -14,7 +14,7 @@
 		height: 95vh;
 	}
 
-	@media only screen and (min-resolution: 192dpi) and (min-width: 37.5em),
+	@media only screen and (min-resolution: 150dpi) and (min-width: 37.5em),
 		only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 37.5em),
 		only screen and (min-width: 125em) {
 		background-image: linear-gradient(
@@ -47,7 +47,7 @@
 		transform: translate(-50%, -50%);
 		text-align: center;
 
-		@media only screen and (min-resolution: 192dpi) and (min-width: 37.5em),
+		@media only screen and (min-resolution: 150dpi) and (min-width: 37.5em),
 			only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 37.5em),
 			only screen and (min-width: 125em) {
 
