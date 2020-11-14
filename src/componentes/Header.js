@@ -1,4 +1,5 @@
 import React from "react";
+import LogoMain from '../img/logoMain_White.svg'
 
 class Header extends React.Component {
 	state = {
@@ -10,7 +11,7 @@ class Header extends React.Component {
 			<div>
 				<header class="header">
 					<div class="header__logo-box">
-						<img src="img/logo-white.png" alt="Logo" class="header__logo" />
+						<img src={LogoMain} alt="Logo" class="header__logo" />
 					</div>
 
 					<div class="header__text-box">
