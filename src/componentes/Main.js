@@ -26,25 +26,28 @@ class Main extends React.Component {
               </h3>
               <p class="paragraph">
                 Gran parte del costo de construccion de un satelite corresponde a los largos tiempos de desarrollo y el constante sorpote de un equipo de especialistas, lo que involucra grandes costos y suele desalentar estas iniciativas.
+                Gracias a los modulos preconstruidos de giskard podras despreocuparte por el proceso y el arduo proceso de investigacion.
               </p>
               <h3 class="heading-tertiary u-margin-bottom-small">
                 Mejores tiempos
               </h3>
               <p class="paragraph">
                 Una vez construido un satelite es necesario superar una etapa ardua y larga de pruebas y certificaciones antes de ser puesto en orbita, si, mas dinero.
+                Giskard orfrece un acompañamiento completo durante el proceso de diseño, simulacion de escenarios, manufcatura y certificacion de tus satelite basado en los modulos prediseñados.
               </p>
               <h3 class="heading-tertiary u-margin-bottom-small">
                 Mas Rapido
               </h3>
               <p class="paragraph">
                 Mucha de la tecnologia satelital suele requerir una serie de funciones basicas, como comunicacion UHF, Computadora de vuelo, Gestion de Bateria, Camaras, Sensores, etc, 
+                Por ello estamos trabajando en brindarte cada vez mejores modulos que se adapten a tus proyectos espaciales.
               </p>
               <br/>
               <h3 class="heading-tertiary u-margin-bottom-small">
                 Ya estas listo para llegar al infinito y mas alla.
               </h3>
             </div>
-            <div class="col-1-of-3">Aqui tomo 1 espacio</div>
+            <div class="col-1-of-3"> </div>
           </div>
         </section>
         <section class="section-about">
