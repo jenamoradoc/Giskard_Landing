@@ -31,27 +31,27 @@ class Footer extends React.Component {
                 <ul class="footer__list">
                   <li class="footer__item">
                     <a href="#" class="footer__link">
-                      Company
+                      Compañia
                     </a>
                   </li>
                   <li class="footer__item">
                     <a href="#" class="footer__link">
-                      Contact us
+                      Contacto
                     </a>
                   </li>
                   <li class="footer__item">
                     <a href="#" class="footer__link">
-                      Carrers
+                      Carreras
                     </a>
                   </li>
                   <li class="footer__item">
                     <a href="#" class="footer__link">
-                      Privacy policy
+                      Politica de Privacidad
                     </a>
                   </li>
                   <li class="footer__item">
                     <a href="#" class="footer__link">
-                      Terms
+                      Terminos Y Condiciones
                     </a>
                   </li>
                 </ul>
